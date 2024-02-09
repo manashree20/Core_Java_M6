@@ -1,2 +1,2 @@
-# Core_Java_M6
+# Core_Java_M6 Programs
 Java programs
